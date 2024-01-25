@@ -1,0 +1,11 @@
+# Obsidian
+.obsidian/
+
+# Git
+.git/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
